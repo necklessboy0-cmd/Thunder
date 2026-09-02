@@ -1,0 +1,5 @@
+streamlit
+ddgs
+requests==2.32.4
+beautifulsoup4
+lxml
