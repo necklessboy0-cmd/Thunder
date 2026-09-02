@@ -1,5 +1,0 @@
-ddgs
-gradio
-requests==2.32.4
-beautifulsoup4
-lxml
